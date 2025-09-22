@@ -1,14 +1,14 @@
 *{
-    margin: 0;
+    margin: 100;
     padding: 0;
-}
-  
-.wrapper {
-    margin: 0 auto;
-    width: 1000px;
 }
 
 .img-Josh {
     width: 300px;
-    height: 200px;
+    height: 400px;
+    
+    object-position: center; /* center the crop */
+    border-radius: 1000px;    /* optional */
+    
 }
+
